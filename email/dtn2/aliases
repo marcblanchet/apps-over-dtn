@@ -1,0 +1,3 @@
+# See man 5 aliases for format
+postmaster:    root
+earthforwarding:	"| /home/blanchet/bin/emailOverDTN.sh -m send -d dtn://earth.ssi/email"
